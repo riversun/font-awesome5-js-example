@@ -1,0 +1,21 @@
+# for Eclipse
+.classpath
+.project
+.settings
+
+# for IDEA
+step01_basic/.idea/fontawesome-webpack.iml
+*.ipr
+*.iws
+.idea/
+
+# for build
+target
+build
+
+# for  mac
+.DS_Store
+
+bin
+dist
+node_modules
