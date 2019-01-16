@@ -1,5 +1,5 @@
 # font-awesome5-js-example
-Examples for importing **[Font Awesome 5](https://fontawesome.com/) into JavaScript based front end project.
+Examples for importing **[Font Awesome 5](https://fontawesome.com/)** into JavaScript based front end project.
 
 Now there are 4 example projects here.
 
