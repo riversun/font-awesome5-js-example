@@ -33,6 +33,6 @@ Open the browser with **npm install** on all samples and try it out
 
 ## [Step04 Using terser explicitly as minimizer in webpack.config](https://github.com/riversun/font-awesome5-js-example/tree/master/step04_with_terser)
 
-- When explicitly building with [terser](https://github.com/terser-js/terser). 
+- Examples When explicitly building with [terser](https://github.com/terser-js/terser). 
 
   (Even without specifying minimizer, **terser** is the default minimizer of webpack4 and later.)
