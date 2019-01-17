@@ -29,7 +29,7 @@ Open the browser with **npm install** on all samples and try it out
 
 ## [Step03 Using Deep Import](https://github.com/riversun/font-awesome5-js-example/tree/master/step03_import_deeply)
 
-- If you are using **uglify-js** there is a bugs in tree-shaking, so it would be more effective to use deep import with that situation.
+- If you are using **uglify-js** there are bugs in tree-shaking, so it would be more effective to use deep import with that situation.
 
 ## [Step04 Using terser explicitly as minimizer in webpack.config](https://github.com/riversun/font-awesome5-js-example/tree/master/step04_with_terser)
 
